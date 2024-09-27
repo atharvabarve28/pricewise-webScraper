@@ -43,7 +43,7 @@ const productSchema = new mongoose.Schema(
     lowestPrice: {
       type: Number,
     },
-    highestprice: {
+    highestPrice: {
       type: Number,
     },
     averagePrice: {
